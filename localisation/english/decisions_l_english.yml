@@ -1,0 +1,79 @@
+﻿l_english:
+ donbass_war:0 "Donbass War"
+ donbass_war_desc:0 "After the fall of the central government, situation in eastern regions has been escalating, it's obvious now that active phase of war will begin in the following months, we must do everything in order to come out on top."
+ # DNR DECISIONS
+  request_russian_weapons:0 "Request Russian Equipment"
+
+  request_russian_infantry_equipment:0 "Request Russian Infantry Equipment"
+  request_russian_artillery:0 "Request Russian Artillery"
+  request_russian_trucks:0 "Request Russian Trucks"
+  request_russian_anti_air:0 "Request Russian Anti Air"
+  request_russian_light_tanks:0 "Request Russian Light Tanks"
+
+  request_russian_volunteers:0 "Request Russian Volunteers"
+  send_recruiters_to_the_volgograd_oblast:0 "Request Volunteers from the Volgograd Oblast"
+  send_recruiters_to_the_rostov_oblast:0 "Request Volunteers from the Rostov Oblast"
+  send_recruiters_to_the_voronezh_oblast:0 "Request Volunteers from the Voronezh Oblast"
+
+  opening_the_warehouses:0 "Open Old Warehouses"
+
+  search_for_a_warehouse_in_donetsk:0 "Search for a Warehouse in Donets'k"
+  search_for_a_warehouse_in_horlivka:0 "Search for a Warehouse in Horlivka"
+  search_for_a_warehouse_in_torez:0 "Search for a Warehouse in Torez"
+  search_for_a_warehouse_in_harczyk_i_ilovajsk:0 "Search for a Warehouse in Harcyz'k i Ilovajs'k"
+  search_for_a_warehouse_in_amvrosijivka:0 "Search for a Warehouse in Amvrosijivka"
+  search_for_a_warehouse_in_novoazovsk:0 "Search for a Warehouse in Novoazovs'k"
+
+  mobilize_the_youth_and_reserves:0 "Mobilize The Youth"
+  mobilize_the_youth_and_reserves_desc:0 ""
+
+  mobilized_the_youth_in_luhansk:0 "Mobilize the Youth in Luhans'k"
+  mobilized_the_youth_in_alchevsk:0 "Mobilize the Youth in Alchevs'k"
+  mobilized_the_youth_in_antracyt:0 "Mobilize the Youth in Antracyt"
+  mobilized_the_youth_in_novoazovsk:0 "Mobilize the Youth in Novoazovs'k"
+  mobilized_the_youth_in_amvrosijivka:0 "Mobilize the Youth in Amvrosijivka"
+  mobilized_the_youth_in_harczyk_i_ilovajsk:0 "Mobilize the Youth in Harcyz'k i Ilovajs'k"
+  mobilized_the_youth_in_torez:0 "Mobilize the Youth in Torez"
+  mobilized_the_youth_in_horlivka:0 "Mobilize the Youth in Horlivka"
+  mobilized_the_youth_in_donetsk:0 "Mobilize the Youth in Donets'k"
+  
+  mobik_1:0 "Limited mobilisation"
+  mobik_2:0 "Limited mobilisation"
+  mobik_3:0 "Expanded mobilisation"
+  mobik_4:0 "Expanded mobilisation"
+  mobik_5:0 "Mass mobilisation"
+  mobik_absolute:0 "War mobilisation"
+#AFU DECISIONS
+
+  afu_mobilization:0 "Mobilization of reserves"
+
+  afu_mobilization_1:0 "Limited mobilization of reserves"
+  afu_mobilization_2:0 "Limited mobilization of reserves"
+  afu_mobilization_3:0 "Expanded mobilization of reserves"
+  afu_mobilization_4:0 "Expanded mobilization of reserves"
+  afu_mobilization_5:0 "Emergent mobilization of reserves"
+
+  afu_teroborona:0 "Teroborona"
+
+  afu_teroborona1:0 "Raise teroborona unit"
+  afu_teroborona2:0 "Raise teroborona unit"
+  afu_teroborona3:0 "Raise teroborona unit"
+  afu_teroborona4:0 "Raise teroborona unit"
+
+  afu_integration:0 "Integration"
+
+  afu_integration1:0 "Trials for separatists"
+  afu_integration1_desc:0 "As we said, the day will come when these bastards will wish they had never been born. As we said, the day will come when these bastards will wish they had never been born. Every separatist warlord will be held personally accountable for their crimes against humanity and Ukraine before a tribunal, and you can be sure that they will not be spared."
+  afu_integration2:0 "Cleaning up collaborators"
+  afu_integration2_desc:0 "Not only the "leaders" will have to answer to God and the law, but also their henchmen, such as police chiefs or, God forbid, "deputies". Fortunately, they are only useless pawns, so we are going to send them all to Motorola and others as soon as possible."
+  afu_integration3:0 "Crackdown on FSB"
+  afu_integration3_desc:0 "Ever since the 2014, Russian FSB started working their absolute overtime in Donbass as a way to increase the separatist grip over the region. Now, a ton of "leftovers" in the form of agents and their influence chains lay around, waiting to be dealt with immediately."
+  afu_integration4:0 "Establish provisional administration"
+  afu_integration4_desc:0 "Such a radical governmental change in the region has undoubtedly caused a ton of bureaucratic troubles. Post-separatist Donbass needs new passports, documentation, banks and tax service - all that will be provided with the establishment of the new provisional administration."
+  afu_integration5:0 "Further steps for integration"
+  afu_integration5_desc:0 "A lot was done for law order in Donbass already. Now it's time we move on to the next step of integrating the region."
+  afu_integration6:0 "Filtration measures"
+  afu_integration6_desc:0 "With a fair amount of population supporting Russia and what used to be the separatist government, the limited repressive actions are inevitable. Of course, catching every Putin-sympathizer here is impossible, but anyone who will be vocal about his hostile opinion will be surely dealt with."
+  afu_integration7:0 "Finish the integration"
+  afu_integration7_desc:0 "Everything needed for integration is done, it's time to officially declare the process as complete!"
+
